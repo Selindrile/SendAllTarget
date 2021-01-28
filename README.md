@@ -1,7 +1,7 @@
 Information:
 * Author: Selindrile
 * Thanks to: Arcon, sorry for abusing your code. :<
-* Addon created to make Send more useful in terms of targetting, may require a loaded gearswap user file.
+* Requires gearswap to be loaded with a user file, though it can be empty.
 
 Abbreviation: //sat, //sendalltarget
 
